@@ -29,7 +29,7 @@ You can install ``optimusprimal`` with PyPi by running
     pip install optimusprimal
 
 INSTALL FROM SOURCE
-==============================================
+==============================================dfafdsafsadfas
 Alternatively, you can install ``optimusprimal`` from GitHub by first cloning the repository 
 
 .. code-block:: bash
